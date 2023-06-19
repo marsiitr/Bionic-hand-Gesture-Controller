@@ -15,3 +15,15 @@ It is an assyembly of individual components of finguers, palm and forearm. The s
 On each fingure of the glove a flex sensor is attached. Whenever fingure is bent the flex sensor bends with it ass well. The resistance of a flex sensor change wrt the angle it has been bent. This change in resistance is measured using the voltage divider and analogue reading from micro-controller. Which is then mapped from 0 to 180 degrees to move the servo arm accordingly.
 
 The circuit design and mechanical designs along with the arduino code are provided in the repositry.
+
+```
+Contributers
+* Amit Kumar
+* Aniket Raj
+* Mitvik Sihag
+* Naman Joshi
+* Neelansh Varshney
+* Shivam Jha
+* Shivansh Sinha
+* Utkarsh Singh
+```
